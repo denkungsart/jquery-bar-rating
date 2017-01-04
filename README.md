@@ -25,13 +25,13 @@ Or install it yourself as:
 In your javascript file include the following
 
 ```ruby
-	require jquery-star-rating
+require jquery-bar-rating
 ```
 
 And stylesheet
 
 ```ruby
-	require jquery-star-rating
+require jquery-bar-rating
 ```
 
 ## Contributing
